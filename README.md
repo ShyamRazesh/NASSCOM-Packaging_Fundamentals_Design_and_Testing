@@ -72,10 +72,10 @@ L2 - Reliability and Performance Testing of Semiconductor Packages
 
 <div class="toc">
   <u2>
-     <li><a href="#header-5">📕 Day 5 - Package Design and Modeling: Building a Semiconductor Package from Scratch</li>
+     <li><a href="#header-5">📕 Day 5 - Package Design and Modelling: Building a Semiconductor Package from Scratch</li>
 </div>
        
-L1 - Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT)
+L1 - Introduction to Package Cross-Section Modelling in ANSYS Electronics Desktop (AEDT)
        
 L2 - Creating the Die and Substrate in AEDT
   
