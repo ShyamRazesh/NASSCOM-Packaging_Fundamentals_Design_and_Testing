@@ -9,9 +9,9 @@ The program also covers essential topics such as thermal behavior, heat-spreadin
 
 # Pre-requisites
 
-o Basic understanding of semiconductor design and fabrication.
+ Basic understanding of semiconductor design and fabrication.
 
-o Familiarity with chip manufacturing processes is recommended but not mandatory.
+ Familiarity with chip manufacturing processes is recommended but not mandatory.
 
 # Workshop Contents
 
@@ -31,10 +31,7 @@ L4 - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches
 
 L5 - Comparative Analysis And Selecting The Right Packaging Solution
 
-<div class="toc">
-  <u2>
-     <li><a href="#header-2">📒 Day 2 - From Wafer to Package: Assembly and Manufacturing Essentials</li>
-</div>
+# 📒 Day 2 - From Wafer to Package: Assembly and Manufacturing Essentials
 
 L1 - Setting The Stage - Supply Chain And Facilities
 
