@@ -108,6 +108,4 @@ Reference
 ----
 [Packaging fundamentals of Design and Testing Program](https://www.vlsisystemdesign.com/packaging/)
 
-https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop
-
 https://github.com/kunalg123/vsdflow
