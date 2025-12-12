@@ -100,6 +100,64 @@ We are going to assign it for underflow, si-typical & substrate
 
 <img width="342" height="621" alt="image" src="https://github.com/user-attachments/assets/67d55a8f-e855-440d-92d1-1eb9217d787b" />
 
+Now we are generating the Mesh after saving the design
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/561ec1dd-34ff-4fec-aafd-31f465ab59cd" />
+
+It shows 32 thousand mesh elements are generated
+
+This is the property of the mesh i.e Quality
+<img width="593" height="905" alt="image" src="https://github.com/user-attachments/assets/8f81e149-e76e-4886-b1f4-c03608efab69" />
+
+Now, the analysis is to be done by Icepack Solve setup
+
+<img width="678" height="813" alt="image" src="https://github.com/user-attachments/assets/66db4d52-e10e-4c06-a7c7-58686c692fe1" />
+
+After setting up, now we have to validate
+<img width="696" height="293" alt="image" src="https://github.com/user-attachments/assets/96d6c471-3125-4c78-8a8b-b6388b01f989" />
+If all the things are correct, then we see a green arrow that means we have set up everything, at least anything is not missing
+
+Based on the warning, we are creating a particular mesh
+<img width="986" height="634" alt="image" src="https://github.com/user-attachments/assets/5f313f37-52cb-453b-b84d-b77ca6229e5b" />
+
+<img width="1585" height="660" alt="image" src="https://github.com/user-attachments/assets/4334898b-daa2-415f-a07e-26223a4c4eb0" />
+
+But since it's creating a problem again, we are going to delete it & validate the mesh again
+
+Now thermal simulation is done
+
+<img width="838" height="578" alt="image" src="https://github.com/user-attachments/assets/1f0d14d1-b24d-4d61-b28a-e5d27fb86427" />
+
+<img width="879" height="556" alt="image" src="https://github.com/user-attachments/assets/3de98ed7-7bf1-40a1-bb38-2918fe939c57" />
+
+- View to do QFN in the package
+<img width="1304" height="615" alt="image" src="https://github.com/user-attachments/assets/fa6e5213-b8d7-4e7d-b5e1-dc37d1cff4dd" />
+
+<img width="1064" height="607" alt="image" src="https://github.com/user-attachments/assets/fb95ac24-93de-4f4c-a9d5-d399f8a3ade6" />
+
+<img width="1048" height="613" alt="image" src="https://github.com/user-attachments/assets/1f117bf8-a2f5-456b-b433-7972a811fd54" />
+
+<img width="1076" height="613" alt="image" src="https://github.com/user-attachments/assets/1c0c47f0-8342-4fae-89ff-6305a1ba9461" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
