@@ -14,6 +14,7 @@ In this lab exercise, I focused on building the foundational layers of a semicon
 - By completing this exercise, I gained hands-on experience in using AEDT’s geometric modelling features to accurately represent the core structural elements of a semiconductor package, which is critical for further simulation and analysis.
 
 **Creating the Die and Substrate in AEDT**
+
 🛠️ Steps to Create a Die in ANSYS
 
 Step 1. Launch ANSYS Electronics Desktop (AEDT)
