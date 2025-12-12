@@ -1,1 +1,93 @@
 # <h1 id="header-1">📘Day 1- Packaging Evolution: From Basics to 3D Integration</h1>
+
+# 1. Introduction to Semiconductor Packaging and Industry Overview:
+**1.1 Definition and Purpose:**
+
+-Semiconductor packaging is the process of enclosing, interconnecting, and protecting an integrated circuit (IC) after wafer fabrication. It transforms the fragile silicon die into a durable, usable component by:
+-Providing mechanical protection from physical and environmental damage
+-Enabling electrical interconnects between the die and the PCB
+-Assisting in thermal dissipation
+-Offering compatibility with system-level form factors
+
+**1.2 Industry Structure:**
+
+The semiconductor packaging industry consists of four major stakeholders:
+
+**IDMs (Integrated Device Manufacturers):** Companies like Intel and Samsung design, fabricate, and package their chips in-house, offering full-stack semiconductor solutions.
+
+**Fabless Companies:** Firms like Qualcomm, Nvidia, and MediaTek design chips but outsource fabrication and packaging.
+
+**Foundries:** Facilities such as TSMC and GlobalFoundries specialize in wafer fabrication but do not design chips.
+
+**OSATs (Outsourced Semiconductor Assembly and Test):** Companies such as ASE, Amkor, and JCET specialize in high-volume packaging, assembly, and testing services for fabless companies.
+
+**1.3 Industry Drivers:**
+
+**Modern packaging must address:**
+
+- Miniaturisation – Demand for compact form factors
+- Performance Scaling – High-speed I/O, bandwidth for AI/ML, HPC
+- Thermal Management – Power-dense chips require effective heat dissipation
+- Cost Optimisation – Balance between manufacturing complexity and cost
+-System Integration – Reduce system latency, power loss, and complexity
+
+# 2. Understanding Package Requirements and Foundational Package Types:
+**2.1 Core Requirements:**
+
+   An ideal package must meet the following criteria:
+
+**Mechanical Protection:** Against vibration, impact, and mechanical stress
+
+**Environmental Protection:** From moisture, oxidation, and contaminants
+
+**Electrical Connectivity:** Minimal parasitics, impedance control, and EMI shielding
+
+**Thermal Conductivity:** Effective heat removal from the junction to ambient
+
+**Structural Support:** Stability during PCB assembly and field operation
+
+**Manufacturability & Scalability:** High-yield SMT-compatible fabrication
+
+**Form Factor Compliance:** Must fit design envelope and target application
+
+**2.2 Foundational Package Types:**
+
+| Type	   |  Description    |
+| :--------  | :-------------------------------- |
+| DIP (Dual In-line Package)  |	A through-hole package with two parallel rows of pins. Low cost but bulky and limited in pin count.|
+| QFP (Quad Flat Package)	   | A surface-mount package with leads on all four sides. Suitable for moderate complexity systems.|
+| QFN (Quad Flat No-lead)	   | A compact, leadless package with better thermal and electrical performance than QFP.|
+| BGA (Ball Grid Array)	     | A high-density surface-mount package with solder balls underneath. Used in CPUs, FPGAs, and SoCs.|
+| CSP (Chip Scale Package)	   | A miniaturised package close in size to the die. Ideal for space-constrained applications like mobile.|
+| PoP (Package-on-Package)	    | Vertically stacked packages (e.g., processor + DRAM). Saves PCB area and improves modularity.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
