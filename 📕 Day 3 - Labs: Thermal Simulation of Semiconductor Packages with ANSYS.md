@@ -78,6 +78,38 @@ The below figure is Die as it's represented in the selection
 <img width="1690" height="682" alt="image" src="https://github.com/user-attachments/assets/6dc14daa-afc0-4956-aef3-a9f20f858f54" />
 
 
+<img width="1919" height="663" alt="image" src="https://github.com/user-attachments/assets/e10ecf9e-8e5f-4818-bbc6-bb8557c17e8a" />
+
+<img width="1679" height="846" alt="image" src="https://github.com/user-attachments/assets/7f9df53f-fd74-4b7a-bdf0-67698c85f351" />
+
+Analyzing temperature through assign thermal source
+<img width="697" height="558" alt="image" src="https://github.com/user-attachments/assets/7da90b6a-7908-4f74-9b4d-d14281101b7b" />
+
+
+We kept two themal conditions on the die-source & substrate i.e source1
+
+<img width="1703" height="766" alt="image" src="https://github.com/user-attachments/assets/151b68b5-2315-4c21-8e5b-28d33aba2baa" />
+
+<img width="1687" height="775" alt="image" src="https://github.com/user-attachments/assets/0b45490a-ab10-45f0-9cc7-7c30281f5bbf" />
+
+<img width="362" height="516" alt="image" src="https://github.com/user-attachments/assets/b9815102-e93c-476f-be9b-19f2570f8a76" />
+
+<img width="1582" height="806" alt="image" src="https://github.com/user-attachments/assets/8a94231e-1164-4bbf-a8c5-d39cece3dcc7" />
+
+We are going to assign it for underflow, si-typical & substrate
+
+<img width="342" height="621" alt="image" src="https://github.com/user-attachments/assets/67d55a8f-e855-440d-92d1-1eb9217d787b" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
