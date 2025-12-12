@@ -184,9 +184,10 @@ Now thermal simulation is done
 
 
 # Summary
-# 🧊 Ansys Icepak Lab: Setup and Thermal Analysis of a Flipchip BGA package.
 
-Below are the steps for setting up an Ansys Icepak and to perform a thermal analysis of a Flipchip BGA package using Ansys Icepak. The simulation is performed for a power input of 1W.
+ **🧊 Ansys Icepak Lab: Setup and Thermal Analysis of a Flipchip BGA package.**
+ 
+Below are the steps for setting up Ansys Icepak and performing a thermal analysis of a Flipchip BGA package. The simulation is performed for a power input of 1W.
 
 **🛠️ Step 1: Insert Icepak Design**
 
