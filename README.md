@@ -69,36 +69,25 @@ L4 - Wire Bond Creation and Material Assignment
     
   L5 - Applying Mold Compound and Finalizing the Package Model
 
+## List of All Open-Source Tools Used
 
-# Tools Used
-
-**ANSYS Electronics Desktop**
-
-o Power and temperature distribution simulations
-
-o Signal and power integrity analysis
-
-**ANSYS Mechanical**
-
-o Thermo-mechanical simulations
-
-o Solder joint reliability testing
-
-**PCB Design Software**
-
-o Printed circuit board (PCB) simulation
-
-o Electrical and thermal design verification
-
-**Process Control Tools**
-
-o Monitoring quality management systems
-
-o Analyzing failures and ensuring reliability
+| Name of Tool | Application / Usage       |
+| :--------  | :-------------------------------- |
+|ANSYS Electronics Desktop | Power and temperature distribution simulations |
+|                           | Signal and power integrity analysis |
+| ANSYS Mechanical | Thermo-mechanical simulations|                         
+|                  | Solder joint reliability testing |
+|PCB Design Software| Printed circuit board (PCB) simulation|
+|                   | Electrical and thermal design verification|
+|Process Control Tools| Monitoring quality management systems|
+|                     | Analysing failures and ensuring reliability|
+|Video-Based Learning Modules| Insights into OSAT/ATMP plant operations|
+|                         |Demonstrations of automation and SMT processes|
 
 
 
-**Author:** Shyam Razesh
+# Author:
+Shyam Razesh
 
 Acknowledgments
 -----
