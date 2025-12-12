@@ -1,5 +1,5 @@
 
-# <h4 id="header-4">📒 Day 4 - Ensuring Package Reliability: Testing and Performance Validation</h4>
+# <h4 id="header-4">📗 Day 4 - Ensuring Package Reliability: Testing and Performance Validation</h4>
 
 # Introduction to Package Testing and Electrical Functionality Checks :
 Package testing is conducted after the integrated circuit (IC) die is enclosed in its final package but before it is shipped to customers. The goal is to ensure each device functions electrically as expected and that any defective or marginal parts are filtered out efficiently.
