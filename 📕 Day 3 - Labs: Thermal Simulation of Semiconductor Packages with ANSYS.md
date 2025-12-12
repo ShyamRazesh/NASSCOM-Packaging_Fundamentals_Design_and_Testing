@@ -1,5 +1,5 @@
 
-# <h3 id="header-3">📕 Day 3 - Labs: Thermal Simulation of Semiconductor Packages with ANSYS</h3>
+# <h3 id="header-3">📙 Day 3 - Labs: Thermal Simulation of Semiconductor Packages with ANSYS</h3>
 The tool that has been used is Icepack wich is to do thermal analysis for packages
 
 # Introduction And Getting Started With ANSYS Electronics Desktop
