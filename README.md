@@ -39,7 +39,7 @@ L4 - Flip Chip Assembly - Bump Formation And Underfill
 
 L5 - Wafer Level Packaging And Conclusion
 
-# 📕 Day 3 - Labs: Thermal Simulation of Semiconductor Packages with ANSYS
+# 📕Day 3 - Labs: Thermal Simulation of Semiconductor Packages with ANSYS
       
 L1 - Introduction And Getting Started With ANSYS Electronics Desktop
 
@@ -51,13 +51,13 @@ L4 - Meshing And Running The Thermal Analysis
 
 L5 - Viewing Results And Exploring Other Package Types
 
-# 📒 Day 4 - Ensuring Package Reliability: Testing and Performance Validation
+# 📗 Day 4 - Ensuring Package Reliability: Testing and Performance Validation
 
 L1 - Introduction to Package Testing and Electrical Functionality Checks
 
 L2 - Reliability and Performance Testing of Semiconductor Packages
 
-# 📕 Day 5 - Package Design and Modelling: Building a Semiconductor Package from Scratch
+# 📙 Day 5 - Package Design and Modelling: Building a Semiconductor Package from Scratch
       
 L1 - Introduction to Package Cross-Section Modelling in ANSYS Electronics Desktop (AEDT)
        
