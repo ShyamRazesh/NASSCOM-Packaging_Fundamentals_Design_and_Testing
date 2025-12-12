@@ -39,10 +39,55 @@ ANSYS Electronics Desktop (AEDT) is a unified platform that integrates multiple 
   
 The tool used here is Icepak which is used to do thermal analysis of packages.
 
-The idea is to analyse the components or settings of a package. So we are importing an already built-in package available in ANSYS.
-
 - The below figure is the basic view for new project Icepack
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/443512e9-a5ae-4805-a0b3-f204e71050ca" />
+
+- The idea is to analyse the components or settings of a package. So we are importing an already built-in package available in ANSYS.
+  
+Loading the available package available in tool for thermal analysis purpose :-
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/44ceb1ae-823d-4318-ba42-3c545b95a52d" />
+
+**Setting Up a Flip-Chip BGA Package :**
+
+- For this task, I set up a flip-chip Ball Grid Array (BGA) package using ANSYS Electronics Desktop. I began by creating the 3D model of the package, which included defining the substrate, die, solder bumps, and encapsulant layers. I used the package creation dialog to specify key dimensions such as length, width, and package thickness, ensuring the model accurately reflected a realistic flip-chip BGA structure.
+
+- I assigned appropriate materials to each component and organized the model hierarchy for clarity. I configured the layout so that the die was properly attached to the substrate with solder bumps underneath, representing the flip-chip connection method. This setup allowed me to visualize the package in 3D and prepared the structure for subsequent thermal and electrical simulations.
+
+- Through this process, I gained hands-on experience in building a detailed and accurate flip-chip BGA package model, which is essential for advanced analysis in semiconductor packaging.
+  
+<img width="1023" height="552" alt="image" src="https://github.com/user-attachments/assets/3696ce7d-9ce7-4cb8-99d2-25af021f4d24" />
+
+The dimensions of the die is nearly half of that of the package dimensions as seen below.
+
+<img width="1020" height="555" alt="image" src="https://github.com/user-attachments/assets/e5d7466b-f344-4fe6-b2d9-851c34d70f5f" />
+
+<img width="1022" height="555" alt="image" src="https://github.com/user-attachments/assets/c6cf4e7a-67a7-4b54-94e8-cb668cba682d" />
+
+<img width="1021" height="553" alt="image" src="https://github.com/user-attachments/assets/cfb65b22-3501-400e-bed3-b5da202b8526" />
+
+We are going to create the model using default dimensions. The model is going to be created as below.
+
+<img width="1309" height="543" alt="image" src="https://github.com/user-attachments/assets/d385da05-8264-4232-abe5-a0345fe6fa68" />
+
+<img width="1681" height="591" alt="image" src="https://github.com/user-attachments/assets/4ed12f56-61b2-4dca-ab47-bbae6fcc909b" />
+
+<img width="1674" height="668" alt="image" src="https://github.com/user-attachments/assets/13185edc-cddd-4da2-8799-9b250db606f0" />
+
+The below figure is Die as it's represented in the selection
+
+<img width="1690" height="682" alt="image" src="https://github.com/user-attachments/assets/6dc14daa-afc0-4956-aef3-a9f20f858f54" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
