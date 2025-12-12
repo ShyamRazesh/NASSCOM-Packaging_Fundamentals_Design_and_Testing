@@ -181,6 +181,12 @@ Now thermal simulation is done
 
 <img width="1076" height="613" alt="image" src="https://github.com/user-attachments/assets/1c0c47f0-8342-4fae-89ff-6305a1ba9461" />
 
+<img width="1683" height="616" alt="image" src="https://github.com/user-attachments/assets/3abf16a0-82e2-4ce7-baf2-73a8b81ab697" />
+
+<img width="1326" height="575" alt="image" src="https://github.com/user-attachments/assets/f2042f31-b8db-4843-bcc6-f807dd567b59" />
+
+
+
 
 
 # Summary
