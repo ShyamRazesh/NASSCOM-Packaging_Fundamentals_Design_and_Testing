@@ -12,10 +12,12 @@ In this lab exercise, I focused on building the foundational layers of a semicon
 - Throughout the process, I utilised the 3D visualisation tools to inspect the model from different angles, confirming the correct alignment and stacking of the die on the substrate. This careful construction provides the essential foundation for subsequent steps in package modelling, such as adding die-attach materials, bond pads, and encapsulation layers.
 
 - By completing this exercise, I gained hands-on experience in using AEDT’s geometric modelling features to accurately represent the core structural elements of a semiconductor package, which is critical for further simulation and analysis.
+  
+  <img width="319" height="191" alt="image" src="https://github.com/user-attachments/assets/28333e3d-2982-49cd-a9d7-70cc4e886df0" />
 
 **Creating the Die and Substrate in AEDT**
 
-🛠️ Steps to Create a Die in ANSYS
+**Steps to Create a Die in ANSYS**
 
 Step 1. Launch ANSYS Electronics Desktop (AEDT)
 
@@ -30,7 +32,28 @@ Step 1. Launch ANSYS Electronics Desktop (AEDT)
 - Go to Modeler → Assign Material
 - Choose Silicon from the material library (or create a custom material)
 - Assign it to the die geometry
+  
+<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/99831d83-19a3-437e-9fcd-b8ac60000323" />
 
+<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/e12b4bff-3fe9-4ca2-ac53-4625b70c29ac" />
+
+**Step 4. Create the Substrate Geometry**
+
+- Create another rectangle for the substrate (e.g., 5mm x 5mm)
+- Position the substrate such that the die is at the center (e.g., -1, -1, -0.1)
+- Modeler -> Surface -> Thicken Sheet and set the thickness as -0.5mm
+
+<img width="1271" height="357" alt="image" src="https://github.com/user-attachments/assets/7be2e6c0-f3d7-42a8-94cd-9ae1a254e329" />
+
+<img width="1919" height="670" alt="image" src="https://github.com/user-attachments/assets/ae672f92-6f43-4896-95d5-d53022cb2b3e" />
+
+<img width="1428" height="878" alt="image" src="https://github.com/user-attachments/assets/334cc012-ee53-47d8-abf9-456cafba0de0" />
+
+<img width="1891" height="671" alt="image" src="https://github.com/user-attachments/assets/11b1760b-efea-431f-9fba-20a860ddfcd8" />
+
+- Changing the name from Rectangle1 to Die
+- Changing the property from Copper to Silicon
+<img width="1273" height="410" alt="image" src="https://github.com/user-attachments/assets/ea617dd8-346e-46d0-8836-57712ee4c5e0" />
 
 **Adding Die Attach Material and Bond Pads:**
 
@@ -46,6 +69,30 @@ In this lab exercise, I enhanced the semiconductor package model by adding the d
 
 - By completing this exercise, I gained practical experience in modelling critical interconnect features and intermediate materials, which are fundamental for both electrical and thermal simulations in advanced semiconductor packaging.
 
+**Steps to Create a Die Attach Material**
+
+**Step 5: Create the DAM Geometry**
+
+- Create another rectangle same size as die at origin (0,0,0) to represent die attach epoxy
+- Set thickness: -0.1 mm
+- Assign appropriate material such as modified_epoxy for thermal conductivity simulation
+
+<img width="1918" height="652" alt="image" src="https://github.com/user-attachments/assets/9e44ccef-197b-4c34-b115-d28601d5d760" />
+
+
+**Steps to Create Bond Pads**
+**Step 6: Define Die Pads**
+
+- Create a thin rectangle to represent the die pad of dimensions 0.2mm x 0.2mm
+- Set thickness: 0.005 mm
+- Similarly create pads on the substrate
+
+
+**Step 7: Create bond pads on both die and substrate**
+
+- Create the pads across the periphery of the die and substrate as shown in the below figure
+- These will serve as connection points
+- Assign material (typically metal types like copper, gold or aluminum)
 
 
 **Wire Bond Creation and Material Assignment:**
@@ -62,8 +109,11 @@ In this lab exercise, I focused on creating wire bonds and assigning appropriate
 
 - By completing this exercise, I gained hands-on experience in modelling wire bonds and assigning materials, which are critical steps for simulating the electrical connectivity and reliability of advanced semiconductor packages.
 
+**Steps to Create Bond Wires**
+**Step 8: Connect pads using wires**
 
-
+- Draw -> Bondwire
+- Connect the die pads to substrate pads using gold wire
 
 **Applying Mold Compound and Finalizing the Package Model:**
 
@@ -78,7 +128,12 @@ In this lab exercise, I completed the semiconductor package model by applying th
 - By completing this exercise, I gained practical experience in the final steps of package modelling, understanding how the mold compound contributes to the mechanical integrity and environmental protection of semiconductor packages. This step is essential for preparing the model for subsequent reliability and thermal simulations.
 
 
+**Steps to Create Mold Compound**
+**Step 9: Build mold around the die**
 
+- Add a rectangular mold compound to encapsulate the die and wire bonds
+- Set thickness: 1.2 mm
+- Assign mold material (e.g., epoxy molding compound)
 
 
 
